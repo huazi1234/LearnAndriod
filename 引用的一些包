@@ -3,3 +3,14 @@
 import android.net.Uri;
 
 import android.content.Intent;
+
+
+寻找 一个类所属包的方法:
+
+1.选中类后,按alt + enter 键可以自动 引入包的语句加上。
+
+2.选中类后 菜单 edit ---->find-->find
+
+3.选中类后,右键，search with google
+
+
